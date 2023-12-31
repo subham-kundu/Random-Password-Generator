@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #5a5a5a;
+    background: rgb(7, 136, 223);
     color: #fff;
 }
 
@@ -22,8 +22,8 @@ body {
 }
 
 .container h1 span {
-    color: black;
-    border-bottom: 4px solid black;
+    color: rgb(6, 10, 223);
+    border-bottom: 4px solid rgb(6, 20, 223);
     padding-bottom: 7px;
     font-weight: bold;
 }
